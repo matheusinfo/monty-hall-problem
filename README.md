@@ -1,6 +1,6 @@
 # <h1 align="center">The Monty Hall problem</h1>
 
-![alt text](./thumb.png "Thumb for problem")
+![alt text](./images/thumb.png "Thumb for problem")
 
 ### <strong>What is?</strong>
 
