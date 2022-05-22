@@ -22,60 +22,60 @@ In order to understand the correct solution, i maked a simple code that accept t
 
 
 ```js
-RUN EXAMPLE => yarn && node index.js option=(true/false) attemps=(number)
+RUN EXAMPLE => yarn && node src/index.js option=(true/false) attemps=(number)
 ```
 
 ### <strong>10 attempts</strong>
 ```js
-Run: node index.js option=false attemps=10
+Run: node src/index.js option=false attemps=10
 -> Wow, you got it right 3 times (30%)
 
-Run: node index.js option=true attemps=10
+Run: node src/index.js option=true attemps=10
 -> Wow, you got it right 7 times (70%)
 ```
 
 ### <strong>100 attempts</strong>
 ```js
-Run: node index.js option=false attemps=100
+Run: node src/index.js option=false attemps=100
 -> Wow, you got it right 39 times (39%)
 
-Run: node index.js option=true attemps=100
+Run: node src/index.js option=true attemps=100
 -> Wow, you got it right 75 times (75%)
 ```
 
 ### <strong>1000 attempts</strong>
 ```js
-Run: node index.js option=false attemps=1000
+Run: node src/index.js option=false attemps=1000
 -> Wow, you got it right 327 times (32.7%)
 
-Run: node index.js option=true attemps=1000
+Run: node src/index.js option=true attemps=1000
 -> Wow, you got it right 661 times (66.1%)
 ```
 
 ### <strong>10000 attempts</strong>
 ```js
-Run: node index.js option=false attemps=10000
+Run: node src/index.js option=false attemps=10000
 -> Wow, you got it right 3346 times (33.46%)
 
-Run: node index.js option=true attemps=10000
+Run: node src/index.js option=true attemps=10000
 -> Wow, you got it right 6672 times (66.72%)
 ```
 
 ### <strong>100000 attempts</strong>
 ```js
-Run: node index.js option=false attemps=100000
+Run: node src/index.js option=false attemps=100000
 -> Wow, you got it right 33344 times (33.344%)
 
-Run: node index.js option=true attemps=100000
+Run: node src/index.js option=true attemps=100000
 -> Wow, you got it right 66664 times (66.664%)
 ```
 
 ### <strong>1000000 attempts</strong>
 ```js
-Run: node index.js option=false attemps=1000000
+Run: node src/index.js option=false attemps=1000000
 -> Wow, you got it right 333217 times (33.3217%)
 
-Run: node index.js option=true attemps=1000000
+Run: node src/index.js option=true attemps=1000000
 -> Wow, you got it right 666060 times (66.606%)
 ```
 
