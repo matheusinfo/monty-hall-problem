@@ -1,4 +1,4 @@
-# <center>The Monty Hall problem</center>
+# <h1 align="center">The Monty Hall problem</h1>
 
 ![alt text](./thumb.png "Thumb for problem")
 
@@ -80,4 +80,6 @@ Run: node index.js option=true attemps=1000000
 ```
 
 
-<center>like it or not, switch ports xD</center>
+</br>
+
+<p align="center">like it or not, switch ports xD</p>
